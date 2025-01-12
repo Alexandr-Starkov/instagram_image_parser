@@ -1,0 +1,8 @@
+# Files
+.env
+
+# Folders
+chromedriver-win64
+
+# Env
+image_parser_venv
