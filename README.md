@@ -23,7 +23,7 @@
 2. Установите зависимости:
    ```pip install -r requirements.txt```
 3. Создайте файл .env в корне проекта и укажите свои логин и пароль для Instagram: 
-    ```INSTAGRAM_LOGIN=ваш_логин```
+    ```INSTAGRAM_LOGIN=ваш_логин```  
     ```INSTAGRAM_PASSWORD=ваш_пароль```
 4. Убедитесь, что WebDriver для Chrome находится в корне проекта
 
