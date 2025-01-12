@@ -12,7 +12,7 @@
 Перед началом работы убедитесь, что на вашем компьютере установлены:
 - Python 3.8+
 - Google Chrome 131+
-- WebDriver для Google Chrome (совместимый с установленной версией браузера)
+- WebDriver для Google Chrome (совместимый с установленной версией браузера)  
 Сслыка на WebDriver для Win64 - https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win64/chromedriver-win64.zip  
 - [Selenium](https://pypi.org/project/selenium/)
 - [dotenv](https://pypi.org/project/python-dotenv/)
